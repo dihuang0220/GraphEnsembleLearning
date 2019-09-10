@@ -13,7 +13,7 @@ GraphEnsembleLearning consists of the combination of several graph embedding mod
 * [node2vec](http://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf)
 
 ## Dependencies
-GEM is tested to work on Python 3.6
+``GraphEnsembleLearning`` is tested to work on Python 3.6
 
 The required dependencies are: Numpy >= 1.12.0, SciPy >= 0.19.0, Networkx >= 2.1, Scikit-learn >= 0.18.1.
 
