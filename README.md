@@ -20,3 +20,14 @@ The required dependencies are: Numpy >= 1.12.0, SciPy >= 0.19.0, Networkx >= 2.1
 To run SDNE, GEM requires Theano >= 0.9.0 and Keras = 2.0.2.
 
 ## Install
+To use ``GraphEnsembleLearning``, the following package is required to install. 
+[GEM-Benchmark](https://github.com/palash1992/GEM-Benchmark) is a Python package which offers a general framework to benchmark graph embedding methods. To install this library in your home directory, use:
+```bash
+    pip3 install -r requirements.txt --user
+```
+
+To install for all users on Unix/Linux:
+```bash 
+    sudo pip3 install -r requirements.txt
+```
+
