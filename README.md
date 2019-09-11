@@ -47,6 +47,9 @@ python3 motivation.py
 <p align="center">
   <img width="312" height="240" src="images/ensemble_merged.png">
 </p>
+<p align="center">
+  <img width="312" height="240" src="images/ensemble_merged_spring.png">
+</p>
 
 To run Graph Ensemble Learning on graphs. 
 ```bash
