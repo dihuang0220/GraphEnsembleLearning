@@ -53,3 +53,5 @@ To run Graph Ensemble Learning on graphs.
 cd Graph_Ensemble
 python3 graph_ensemble.py -exp baseline -data ppi
 ```
+
+## Cite
