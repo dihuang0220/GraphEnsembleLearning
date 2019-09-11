@@ -47,4 +47,8 @@ python3 motivation.py
 <p align="center">
   <img width="520" height="400" src="images/ensemble_merged.png">
 </p>
-
+To run Graph Ensemble Learning on graphs. 
+```bash
+cd Graph_Ensemble
+python3 graph_ensemble.py -exp baseline -data ppi
+```
