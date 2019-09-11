@@ -95,7 +95,7 @@ if __name__ == '__main__':
     parser.add_argument('-rounds_out', '--rounds_out', help='rounds in testing')
     
 
-    params = json.load(open('Graph_Ensemble/ens_params.conf', 'r'))
+    params = json.load(open('ens_params.conf', 'r'))
     args = vars(parser.parse_args())
     for k, v in args.items():
         if v is not None:
