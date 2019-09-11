@@ -44,4 +44,7 @@ To genenerate the motivating example graphs and plot graphs.
 cd Graph_Ensemble
 python3 motivation.py
 ```
+<p align="center">
+  <img width="520" height="400" src="images/ensemble_merged.pdf">
+</p>
 
