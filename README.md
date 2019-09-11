@@ -39,4 +39,9 @@ To install ``GraphEnsembleLearning``, use:
 ```
 
 ## Usage
-To genenerate 
+To genenerate the motivating example graphs and plot graphs. 
+```bash
+cd Graph_Ensemble
+python3 motivation.py
+```
+
