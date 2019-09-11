@@ -45,7 +45,7 @@ cd Graph_Ensemble
 python3 motivation.py
 ```
 <p align="center">
-  <img width="260" height="200" src="images/ensemble_merged.png">
+  <img width="312" height="240" src="images/ensemble_merged.png">
 </p>
 
 To run Graph Ensemble Learning on graphs. 
