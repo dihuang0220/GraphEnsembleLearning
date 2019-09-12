@@ -58,3 +58,19 @@ python3 graph_ensemble.py -exp baseline -data ppi
 ```
 
 ## Cite
+    @ARTICLE{2019arXiv190902811G,
+           author = {{Goyal}, Palash and {Huang}, Di and {Rokka Chhetri}, Sujit and
+             {Canedo}, Arquimedes and {Shree}, Jaya and {Patterson}, Evan},
+            title = "{Graph Representation Ensemble Learning}",
+          journal = {arXiv e-prints},
+         keywords = {Computer Science - Social and Information Networks, Computer Science - Machine Learning, Statistics - Machine Learning},
+             year = "2019",
+            month = "Sep",
+              eid = {arXiv:1909.02811},
+            pages = {arXiv:1909.02811},
+    archivePrefix = {arXiv},
+           eprint = {1909.02811},
+     primaryClass = {cs.SI},
+           adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190902811G},
+          adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    }
