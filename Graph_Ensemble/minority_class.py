@@ -148,27 +148,3 @@ if __name__ == '__main__':
 
     pickle.dump(f1_result, open("./"+ params['graph']+"_minority.pickle", 'wb'))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
