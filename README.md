@@ -57,6 +57,13 @@ cd Graph_Ensemble
 python3 graph_ensemble.py -exp baseline -data ppi
 ```
 
+To get F1 score for each class in node classification
+```bash
+cd Graph_Ensemble
+python3 minority_class.py -data ppi
+```
+
+
 ## Cite
     @ARTICLE{2019arXiv190902811G,
            author = {{Goyal}, Palash and {Huang}, Di and {Rokka Chhetri}, Sujit and
